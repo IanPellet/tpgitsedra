@@ -1,1 +1,3 @@
+#Ignores the python generated files
+
 *.pyc
